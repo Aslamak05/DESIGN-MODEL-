@@ -1,4 +1,4 @@
-# AXIOM Studio — Design Agency Homepage
+# Design Agency Homepage
 
 A modern, production-quality design agency homepage built with **Next.js 14** (App Router), **Tailwind CSS**, and a refined dark aesthetic.
 
