@@ -3,7 +3,7 @@
 A modern, production-quality design agency homepage built with **Next.js 14** (App Router), **Tailwind CSS**, and a refined dark aesthetic.
 
 ## 🚀 Live Demo
-> Deploy to Vercel for a live link (see below)
+> https://design-model-zeta.vercel.app
 
 ---
 
@@ -33,7 +33,11 @@ A modern, production-quality design agency homepage built with **Next.js 14** (A
 - **Custom scrollbar**, text selection color, noise texture overlay
 
 ---
+## Project Documentation
 
+[View Project Report](./Project_Report.pdf)
+
+---
 ## 📁 Folder Structure
 
 ```
